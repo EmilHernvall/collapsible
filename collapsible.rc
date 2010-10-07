@@ -1,0 +1,9 @@
+#include "resource.h"
+#include "windows.h"
+
+IDI_COLLAPSIBLE         ICON                    "collapsible.ico"
+IDI_SMALL               ICON                    "small.ico"
+
+BackgroundImage Image "bg.jpg"
+BrickImage Image "brick.png"
+LogoImage Image "logo.png"
